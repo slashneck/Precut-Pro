@@ -2,7 +2,7 @@
 
 **Precut Pro** is a Windows desktop application for browsing, previewing, and downloading short anime editing clips (“precuts”) from a shared Google Drive catalog.
 
-Built with WPF on .NET 8, the app provides a fast local catalog view of a structured Drive library with cover support, search, favorites, and in‑app playback.
+The app provides a fast local catalog view of a structured Drive library with cover support, search, favorites, and in‑app playback.
 
 ---
 
@@ -10,14 +10,13 @@ Built with WPF on .NET 8, the app provides a fast local catalog view of a struct
 
 - Cover-based anime library browser
 - Fast title search
-- Episode / clip navigation per show
-- In‑app preview playback (Drive embed player via WebView2)
+- Episode / Clip navigation per show
+- Tagging system
 - Favorites system
+- In‑app preview playback
 - Recently uploaded section
-- Centralized metadata sync from Drive
-- NSFW / spoiler tag awareness (metadata-controlled)
+- Centralized metadata sync
 - Download queue with local history
-- Local caching for faster startup
 
 ---
 
